@@ -1,0 +1,11 @@
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.deps.json
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.runtimeconfig.json
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.runtimeconfig.dev.json
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.dll
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.pdb
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.csprojAssemblyReference.cache
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.AssemblyInfoInputs.cache
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.AssemblyInfo.cs
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.dll
+/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.pdb

@@ -1,0 +1,46 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/GuessTheNumber.csproj",
+    "projectName": "GuessTheNumber",
+    "projectPath": "/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/GuessTheNumber.csproj",
+    "outputPath": "/home/hackerbuddy/repos/GuessTheNumber/GuessTheNumber/GuessTheNumber/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/home/hackerbuddy/dotnet-sdk-3.1.100-linux-x64/sdk/3.1.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}
