@@ -16,6 +16,11 @@ namespace GuessTheNumber
             InitNumber();
         }
 
+        public bool Won()
+        {
+            return WinScenario;
+        }
+
         private void InitNumber()
         {
             var rd = new Random();
@@ -42,6 +47,11 @@ namespace GuessTheNumber
             {
                 throw new SystemException();
             }
+        }
+
+        public void presentWinStatistics()
+        {
+            throw new NotImplementedException();
         }
     }
 }
