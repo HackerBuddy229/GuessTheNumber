@@ -6,7 +6,8 @@ namespace GuessTheNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var randomNumber = new RandomNumber();
+            
         }
     }
 }
