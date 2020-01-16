@@ -4,20 +4,21 @@ namespace GuessTheNumber
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var randomNumber = new RandomNumber();
 
-            while (randomNumber.Won())
+            while (!randomNumber.Won())
             {
                 try
                 {
                     var guess = Convert.ToInt32(Console.ReadLine());
-                    var result = randomNumber.Guess(guess:guess);
+                    var result = randomNumber.Guess(guess);
+                    Console.WriteLine(result);
 
                     if (result == "you are right" && randomNumber.Won())
                     {
-                        randomNumber.presentWinStatistics();
+                        randomNumber.PresentWinStatistics();
                     }
                 }
                 catch (Exception e)

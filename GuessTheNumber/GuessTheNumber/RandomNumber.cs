@@ -6,11 +6,12 @@ namespace GuessTheNumber
     public class RandomNumber
     {
         private int _number;
-        private List<int> Guesses { get; set; }
+        private List<int> Guesses;
         private bool WinScenario { get; set; }
 
         public RandomNumber()
         {
+            Guesses = new List<int>();
 
             WinScenario = false;
             InitNumber();
@@ -49,9 +50,16 @@ namespace GuessTheNumber
             }
         }
 
-        public void presentWinStatistics()
+        public void PresentWinStatistics()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Congratulations, you have won!!!");
+            Console.WriteLine("You guessed the following numbers");
+            foreach (var guess in Guesses)
+            {
+                Console.WriteLine(guess);
+            }
+            
+            Console.WriteLine($"totalling a number of {Guesses.Count} guesses");
         }
     }
 }
